@@ -1,0 +1,6 @@
+resource_group_name_apim = "client-proj-dev-apim-rg-ne-001"
+location = "north europe"
+apim_name = "client-proj-dev-apim-ne-001"
+company_name = "client-name"
+publisher_email = "example@example.com"
+sku_name_apim = "Developer_1"
