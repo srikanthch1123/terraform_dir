@@ -1,0 +1,3 @@
+variable "apim" {
+  name = "one"
+}
