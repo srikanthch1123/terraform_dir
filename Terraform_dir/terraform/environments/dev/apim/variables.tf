@@ -9,3 +9,13 @@ variable "company_name" {}
 variable "publisher_email" {}
 
 variable "sku_name_apim" {}
+
+# azure connections
+
+variable "subscription_id" {}
+
+variable "tenant_id" {}
+
+variable "client_id" {}
+
+variable "client_secret" {}
