@@ -1,5 +1,5 @@
 resource_group_name  = "zgebs-workbench-dev-storage-rg"
-location             = "Central India"
+location             = "north europe"
 storage_account_name = "zgbswbdevstorage1123"
 
 container_names = {
