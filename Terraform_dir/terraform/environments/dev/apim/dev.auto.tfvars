@@ -1,0 +1,15 @@
+resource_group_name_apim = "zgebs-workbench-dev-api-rg"
+location = "north europe"
+apim_name = "workbenchAPI-ManagerDEV-001"  # actual name "workbenchAPI-ManagerDEV"
+company_name = "zgebs"
+publisher_email = "example@example.com"
+sku_name_apim = "Developer_1"
+
+virtual_network_name = "workbench-dev-neu-vnet"
+
+resource_group_name_network = "zgebs-workbench-dev-neu-vnet-rg"
+subnet_snet_apim_ds_name = "zgebs-wb-dey-snet-apim-ne01"
+private_endpoint_apim_name = "eorkbench-API-Manager-private-endpoint-01"
+apim_dns_zone_vnet_link_name = "dns-zone-vnet-link-name"
+apim_dns_a_record_name = "dns-a-record-apim-001"
+apim_private_service_connection = "service-connection-apim-001"
