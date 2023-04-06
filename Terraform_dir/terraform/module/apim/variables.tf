@@ -10,7 +10,7 @@ variable "publisher_email" {}
 
 variable "sku_name_apim" {}
 
-variable "virtual_network_name" {}
+# variable "virtual_network_name" {}
 
 # variable "resource_group_name_network" {}
 
