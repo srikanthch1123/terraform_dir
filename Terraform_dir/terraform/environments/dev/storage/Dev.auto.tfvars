@@ -25,16 +25,16 @@ storage_account_name = "zgbswbdevstorage1123"
 #     }
 # }
 
-virtual_network_name = "workbench-dev-neu-vnet"
+# virtual_network_name = "workbench-dev-neu-vnet"
 
-subnet_snet_shared_ds_name = "zgebs-wb-dev-snet-shared-ne01"
+# subnet_snet_shared_ds_name = "zgebs-wb-dev-snet-shared-ne01"
 
-resource_group_name_network = "zgebs-workbench-dev-neu-vnet-rg"
+# resource_group_name_network = "zgebs-workbench-dev-neu-vnet-rg"
 
-private_endpoint_storage_name = "zgebs-wb-dev-shrdstg-pr-198"
+# private_endpoint_storage_name = "zgebs-wb-dev-shrdstg-pr-198"
 
-storage_dns_zone_vnet_link_name = "dns-zone-vnet-link-name"
+# storage_dns_zone_vnet_link_name = "dns-zone-vnet-link-name"
 
-storage_dns_a_record_name = "dns-a-record-002"
+# storage_dns_a_record_name = "dns-a-record-002"
 
-storage_private_service_connection = "service-connection-stg-001"
+# storage_private_service_connection = "service-connection-stg-001"
